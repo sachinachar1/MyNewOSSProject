@@ -1,1 +1,1 @@
-# MyNewOSSProject
+# myNewOSSProject
